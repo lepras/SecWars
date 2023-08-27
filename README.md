@@ -43,3 +43,9 @@ iptables
 portmaster safing
 
 ## PGP
+
+## Windows
+
+UAC
+
+Group Policy
